@@ -1,6 +1,8 @@
 # tabbar_color
+![076ADB14-A303-494A-89D0-09A74EE74751_1_201_a](https://user-images.githubusercontent.com/73986840/121488572-25f38000-ca0e-11eb-9660-753128cb826c.jpeg)
 
-A new Flutter application.
+## 参考
+【stack overflow】https://stackoverflow.com/questions/57631838/is-there-a-way-to-make-the-tab-bar-indicator-line-a-gradient-in-fluttera<br>
 
 ## Getting Started
 
